@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Screen to register a user -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/content_register"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    android:orientation="vertical"
+    tools:context="com.fantasticapps.musiqproto.RegisterActivity">
+
+    <!-- All components arranged vertically -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="50dp"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:padding="@dimen/activity_horizontal_margin">
+
+        <!--Title of page: "Register" -->
+        <TextView
+            android:id="@+id/registerTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/activity_horizontal_margin"
+            android:text="@string/register"
+            android:textAlignment="center"
+            android:textColor="#E91E63"
+            android:textSize="48dp"
+            android:textStyle="bold" />
+
+        <!-- Text field to enter email -->
+        <EditText
+            android:id="@+id/registerEmailText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginBottom="@dimen/activity_vertical_margin"
+            android:layout_marginTop="16dp"
+            android:clickable="true"
+            android:contextClickable="true"
+            android:cursorVisible="true"
+            android:editable="true"
+            android:ems="10"
+            android:enabled="true"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:hint="@string/prompt_email"
+            android:inputType="textEmailAddress"
+            android:textColor="@color/colorAccent"
+            android:textColorHint="@color/colorPrimaryDark"
+            android:textSize="24dp" />
+
+        <!-- Text field to enter password -->
+        <EditText
+            android:id="@+id/registerPasswordText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginBottom="@dimen/activity_vertical_margin"
+            android:layout_marginTop="27dp"
+            android:clickable="true"
+            android:contextClickable="true"
+            android:cursorVisible="true"
+            android:editable="true"
+            android:ems="10"
+            android:enabled="true"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:hint="@string/prompt_password_required"
+            android:inputType="textPassword"
+            android:textColor="@color/colorAccent"
+            android:textColorHint="@color/colorPrimaryDark"
+            android:textSize="24dp" />
+
+        <!-- Text field to re-enter password -->
+        <EditText
+            android:id="@+id/registerPasswordConfirmText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginBottom="@dimen/activity_vertical_margin"
+            android:layout_marginTop="16dp"
+            android:clickable="true"
+            android:contextClickable="true"
+            android:cursorVisible="true"
+            android:editable="true"
+            android:ems="10"
+            android:enabled="true"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:hint="@string/prompt_password_confirm"
+            android:inputType="textPassword"
+            android:textColor="@color/colorAccent"
+            android:textColorHint="@color/colorPrimaryDark"
+            android:textSize="24dp" />
+
+        <!-- Button to register user with the above information
+            and switch to Login screen-->
+        <Button
+            android:id="@+id/buttonConfirmRegister"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            android:background="@color/colorPrimaryDark"
+            android:clickable="true"
+            android:contextClickable="true"
+            android:cursorVisible="false"
+            android:enabled="true"
+            android:padding="10dp"
+            android:text="@string/register"
+            android:textColor="@color/colorBlack"
+            android:textSize="16dp" />
+
+    </LinearLayout>
+
+    <!-- includes navigation bar -->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <include
+            android:id="@+id/navigation_reg"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            layout="@layout/activity_main_nav"/>
+
+    </RelativeLayout>
+
+
+</LinearLayout>

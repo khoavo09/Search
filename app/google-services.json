@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "432757349911",
+    "firebase_url": "https://musiq-1e79e.firebaseio.com",
+    "project_id": "musiq-1e79e",
+    "storage_bucket": "musiq-1e79e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432757349911:android:1fbc9c71294691f3",
+        "android_client_info": {
+          "package_name": "com.fantasticapps.musiqproto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432757349911-udmu7sbqmd7hv36cckmp3m2kt7d9nbqk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fantasticapps.musiqproto",
+            "certificate_hash": "6a48ef8ab4bc43b54af31d48fb0d5ba6cc07261e"
+          }
+        },
+        {
+          "client_id": "432757349911-86vopujvg19b5n2q8i0chbiu6i3isqfb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fantasticapps.musiqproto",
+            "certificate_hash": "00435b503a48127d57d4206dcdf87e0bb893d1da"
+          }
+        },
+        {
+          "client_id": "432757349911-vj8v9l8d8tksf4o78oesfprsve8rk0u4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv2DDmw3ndjk8qwawTRcGnJYF7We9JC2M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432757349911-vj8v9l8d8tksf4o78oesfprsve8rk0u4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

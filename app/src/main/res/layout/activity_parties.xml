@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Screen that lists out all the parties -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/content_parties"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop = "16dp"
+    tools:context="com.fantasticapps.musiqproto.PartiesActivity">
+
+
+    <!--All components arranged vertically -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <!-- Title of screen: "Parties" -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="@dimen/activity_horizontal_margin"
+            android:paddingRight="@dimen/activity_horizontal_margin"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:background="@color/colorPrimary"
+            android:text="@string/title_parties"
+            android:textColor="@color/colorAccent"
+            android:textSize="24dp"/>
+
+        <!-- Button to create a party -->
+        <Button
+            android:id="@+id/create_party_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            android:paddingLeft="@dimen/activity_horizontal_margin"
+            android:paddingRight="@dimen/activity_horizontal_margin"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:background="@color/colorAccent"
+            android:icon="@drawable/ic_create_party"
+            android:clickable="true"
+            android:contextClickable="true"
+            android:cursorVisible="false"
+            android:enabled="true"
+            android:text="@string/title_create_party"
+            android:textSize="20dp"
+            android:textAlignment="center"
+            android:textColor="@color/colorBlack"/>
+
+         <!-- Button to join a party -->
+        <!--
+        <Button
+            android:id="@+id/join_party_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="300dp"
+            android:background="@color/colorAccent"
+            android:text="Join Party" />
+            -->
+
+        <!-- SubTitle: "Parties Near You -->
+        <TextView
+            android:id="@+id/message"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:layout_marginRight="@dimen/activity_horizontal_margin"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            android:text="@string/sub_nearby_parties"
+            android:textColor="@color/colorPrimary"
+            android:textSize="20dp"/>
+
+        <!-- List of parties close by -->
+        <ListView
+            android:id="@+id/partyList"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            android:layout_marginBottom="5dp"
+            android:textColor="@color/colorAccent"/>
+
+        <!--Sub-title: "Recently Joined Parties -->
+        <TextView
+            android:id="@+id/recentlyPartiesTxt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:layout_marginRight="@dimen/activity_horizontal_margin"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            android:textColor="@color/colorPrimary"
+            android:text="@string/sub_recent_parties"
+            android:textSize="20dp"/>
+
+        <!-- List of parties joined recently -->
+        <ListView
+            android:id="@+id/recentlyList"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            android:textColor="@color/colorAccent"/>
+
+    </LinearLayout>
+
+</RelativeLayout>

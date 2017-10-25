@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Tabs to switch between login and register -->
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/main_content"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:fitsSystemWindows="true"
+    tools:context="com.fantasticapps.musiqproto.LoginRegisteration">
+
+    <!-- container that will hold login/register Fragment -->
+    <android.support.v4.view.ViewPager
+        android:id="@+id/container_log_reg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <!-- Bar that will display the two tabs -->
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/appbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay"
+        android:textColor="@color/colorAccent"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+        <!-- Describes the tab layout -->
+        <android.support.design.widget.TabLayout
+            android:id="@+id/tabs"
+            android:textColor="@color/colorAccent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <!-- First Tab: Login switches to the login screen -->
+            <android.support.design.widget.TabItem
+                android:id="@+id/action_login"
+                android:text="@string/login"
+                android:textColor="@color/colorAccent"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+            <!-- Second Tab: Register switches to the register screen -->
+            <android.support.design.widget.TabItem
+                android:id="@+id/action_register"
+                android:text="@string/register"
+                android:textColor="@color/colorAccent"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+        </android.support.design.widget.TabLayout>
+
+    </android.support.design.widget.AppBarLayout>
+
+</android.support.design.widget.CoordinatorLayout>
+

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/content_display_songs"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.fantasticapps.musiqproto.DisplaySongsActivity">
+
+    <!-- Everything will be arranged horizontally -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:background="@color/colorPrimary"
+        android:orientation="horizontal">
+
+        <!-- Title of the playlist -->
+        <TextView
+            android:id="@+id/playlist_title_header"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="@dimen/activity_horizontal_margin"
+            android:paddingRight="100dp"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:textSize="24dp"
+            android:text="TextView"
+            android:background="@color/colorPrimary"
+            android:textColor="@color/colorAccent"/>
+
+
+        <!-- Button to rename the playlist -->
+        <Button
+            android:id="@+id/rename_playlist_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Rename"
+            android:padding = "10dp"
+            android:textSize="16dp"
+            android:background="@color/colorAccent"
+            android:textColor="@color/colorBlack"/>
+
+        <!-- Button to delete the playlist -->
+        <Button
+            android:id="@+id/delete_playlist_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:padding="10dp"
+            android:textSize="16dp"
+            android:text="Delete"
+            android:background="@color/colorAccent"
+            android:textColor="@color/colorBlack"/>
+
+    </LinearLayout>
+
+    <!-- To display the songs in the playlist -->
+    <FrameLayout
+        android:id="@+id/content"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <!-- Songs will be viewed in list format -->
+        <ListView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorAccent"/>
+
+        <!-- Title "Songs in the Playlist -->
+        <TextView
+            android:id="@+id/message"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding = "5dp"
+            android:textSize="20dp"
+            android:text="Songs In Playlist"
+            android:textColor="@color/colorPrimary"/>
+
+    </FrameLayout>
+
+</LinearLayout>

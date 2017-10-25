@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/khoavo/.android/build-cache/66635feb4cde8033d84230ccc20293d0317b2703/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/Users/khoavo/Desktop/MusiQ-Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_935cd8f2a1383697c228d7a018ebe08646740270/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khoavo/Desktop/MusiQ-Mobile/app/libs/google-api-client-http-1.2.3-alpha.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2f651dea01cfe01b3d37ae4275cbabf7a326cd7d">
+        <dex dex="/Users/khoavo/Desktop/MusiQ-Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/2/google-api-client-http-1.2.3-alpha_d2d0fe273f65051742d1fe7952d8f05d94d5d869/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khoavo/.android/build-cache/3318a5bbd40819884707e16eb0f61841a4ba200f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/khoavo/Desktop/MusiQ-Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9631a4ed5c7184b80c895ce8f73cea6ea0f60313/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khoavo/.android/build-cache/fbb1241f553613aabdea4ea1f792c40e37a0bcc1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/Users/khoavo/Desktop/MusiQ-Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b6536fcc41922ac77b8454fe4a2cf53c588a412b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khoavo/.android/build-cache/f6409bb4ad03ccd914b66737dfe4126d05cd1e00/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="/Users/khoavo/Desktop/MusiQ-Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_03badade7b11a6852dbbd8138225bf0a556bce57/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khoavo/.android/build-cache/b4737dedfffc7b66d74e7147e9854174e97b39e3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/Users/khoavo/Desktop/MusiQ-Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_36d99e82f7840c5a627ac971300f4eb3cb1edd92/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khoavo/.android/build-cache/34e09a718072081dedd8f095514e091e8cdf98e4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/khoavo/Desktop/MusiQ-Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3eac5b82983c654ad57ce8fc721841b23e3e977c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khoavo/.android/build-cache/b20fac65248ecd015896d6cbfe267245c2eeddda/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/khoavo/Desktop/MusiQ-Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dd3299a475e6531c570b8ffaa70a17444aaadf3d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khoavo/Desktop/MusiQ-Mobile/app/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="/Users/khoavo/Desktop/MusiQ-Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/2/YouTubeAndroidPlayerApi_88b4b6d8f83a706d01bec7edff2b57d0f22966cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khoavo/.android/build-cache/1868594fde21d224550f222a32435db36f115ffe/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/Users/khoavo/Desktop/MusiQ-Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a9c06e17d225efe31cfc8f8fa06d85c19472752e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khoavo/.android/build-cache/d4a2e70019069b9266e6247e746d6c3e0dd4ad1b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/khoavo/Desktop/MusiQ-Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ef97caa68417a3d06aafacd8250728e8f91d5cb7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khoavo/.android/build-cache/d04864b5bff9570680e4c991d4a688ed8d38ce1a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/khoavo/Desktop/MusiQ-Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6beaef236d6cff83963fdfe59e76e7f7dab86a66/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khoavo/.android/build-cache/413d5f42caa0e4eccc0b750938d7956da20a8a8b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/khoavo/Desktop/MusiQ-Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_598f7b7b95c98702de72db59c1d33a9b6a2116c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khoavo/.android/build-cache/93cbb01577cdd362b96eee48f799283e385dc19b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/Users/khoavo/Desktop/MusiQ-Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a2dbac66e362ebf85e93f602e8a0f560a1e12665/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khoavo/.android/build-cache/4ce566ca44c185c5b8fda6cd70121a2610f30ce2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/khoavo/Desktop/MusiQ-Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8ec2522f80bbe34f7d993c40a6beaab20cff450c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khoavo/Desktop/MusiQ-Mobile/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/khoavo/Desktop/MusiQ-Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e27c74efd0b298f22f0a6ec99558e5b5527d9d71/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khoavo/Desktop/MusiQ-Mobile/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="beefc7564b4b5e583f72cfca224f43253a4dfa14">
+        <dex dex="/Users/khoavo/Desktop/MusiQ-Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b8207637d5f7963a78388ee2844634f96006f297/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khoavo/.android/build-cache/e3e7b62125e0bdb3e2ada525a3bb81969c88f314/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/khoavo/Desktop/MusiQ-Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c72884f0dbe8b1ed875f22d6d372eae8e5ca5c8d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khoavo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/khoavo/Desktop/MusiQ-Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_07a533ab73623e3f4c3bde9abd9dafe3ae66e4b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khoavo/.android/build-cache/d6d61377fbfcfa719b4cf3f6e48b0d7a50814439/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/khoavo/Desktop/MusiQ-Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_82f908406ad896ab30a39d1c5cd1630b51e901e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khoavo/Desktop/MusiQ-Mobile/app/libs/google-api-client-json-1.2.3-alpha.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="96fc0eb531f79ca3d1cbb347e91b61df5743f051">
+        <dex dex="/Users/khoavo/Desktop/MusiQ-Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/2/google-api-client-json-1.2.3-alpha_855602ca5c6b1550fc6918920d2bf85bb84cbf52/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khoavo/Desktop/MusiQ-Mobile/app/libs/google-api-services-youtube-v3-rev186-1.23.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="776fc9b2408c0b49a71c9bef0ca4c60318eb5cb4">
+        <dex dex="/Users/khoavo/Desktop/MusiQ-Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/2/google-api-services-youtube-v3-rev186-1.23.0_1e70b17dc5f61b8ef56ec65026ddb7dc9eb17400/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khoavo/.android/build-cache/6b5a328574fbd8524f42742266a6a69e7db293c5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="/Users/khoavo/Desktop/MusiQ-Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7807be472e669cd858deaf94827500c91c675edd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khoavo/.android/build-cache/ec7ab6f99399928780a194675a7b0922720f1377/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/khoavo/Desktop/MusiQ-Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1e20c435ea4febc6a107bdae0de22e9ef18f1e33/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khoavo/.android/build-cache/c2cb8c1927673505b4ec6936c0a30fd4ed7d60a7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/khoavo/Desktop/MusiQ-Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4541eed1ba734f24fe7e23ed12cb596297f6216f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khoavo/.android/build-cache/b40a3a5bd27e3e63ea196838960f9668fe3a93cd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="/Users/khoavo/Desktop/MusiQ-Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c165d457b14ebc2a6831234a96e1a551b1ab0e0f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khoavo/Desktop/MusiQ-Mobile/app/libs/google-http-client-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d441fc58329c4a4c067acec04ac361627f66ecc8">
+        <dex dex="/Users/khoavo/Desktop/MusiQ-Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/2/google-http-client-1.22.0_d2ccee01f102028751a53c1fe68497f791fd4959/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khoavo/.android/build-cache/e12fec5df97c8ab168905f9eb888cc42de96e70e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/khoavo/Desktop/MusiQ-Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4c0d3bd8446f4bfdd66c767592ab8fd0322a8d4c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khoavo/.android/build-cache/ce500af4c77b316728509fb4c55f00140ea0e7ef/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/khoavo/Desktop/MusiQ-Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_822b6d193fb901912f213c8bd9e56b49d426b03b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khoavo/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/khoavo/Desktop/MusiQ-Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_db9996476e8dfebdfbf8d1ad25fc44d556e1689d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khoavo/.android/build-cache/699e777c500a81eb2c55f3f96e5c00b25d7104d5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/khoavo/Desktop/MusiQ-Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_076fcd5f15bba15f787a7f0ae409d2caad37169f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khoavo/.android/build-cache/fb647c64006bf17b74605b4dbfdadf80d2926c70/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/khoavo/Desktop/MusiQ-Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ba4d091bb907d582f255d3b52764da5c6df172ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khoavo/Desktop/MusiQ-Mobile/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="034ac9b6ad2901578adc23f4a54675d86718c1c2">
+        <dex dex="/Users/khoavo/Desktop/MusiQ-Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b8207637d5f7963a78388ee2844634f96006f297/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khoavo/.android/build-cache/52a1f56a999a638573f3aad0515ecbb8074ada0a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/khoavo/Desktop/MusiQ-Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b1a8224e63ff05ba341b69acae7e5ba431b9906b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khoavo/.android/build-cache/3c10e684520ae912b50dca816d13735ab88f5057/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/Users/khoavo/Desktop/MusiQ-Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6ce093fcc77788028379fd0e68e888bfa9cd98c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khoavo/Desktop/MusiQ-Mobile/app/libs/google-api-client-1.23.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="522ea860eb48dee71dfe2c61a1fd09663539f556">
+        <dex dex="/Users/khoavo/Desktop/MusiQ-Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/2/google-api-client-1.23.0_7b0541cb090c7971216e4af67229378f54e89e2b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khoavo/Desktop/MusiQ-Mobile/app/libs/google-api-client-googleapis-json-1.2.3-alpha.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fa2a6307523cabd4574a97b96bb6f2acad2d74fb">
+        <dex dex="/Users/khoavo/Desktop/MusiQ-Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/2/google-api-client-googleapis-json-1.2.3-alpha_6e9018d3919e71e52d7ab47d6a8e096c27ebece1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khoavo/Desktop/MusiQ-Mobile/app/libs/google-http-client-jackson2-1.23.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fd6761f4046a8cb0455e6fa5f58e12b061e9826e">
+        <dex dex="/Users/khoavo/Desktop/MusiQ-Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/2/google-http-client-jackson2-1.23.0_61619aff03950f2544ec663f92e63e46e40a4946/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khoavo/Desktop/MusiQ-Mobile/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/khoavo/Desktop/MusiQ-Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e27c74efd0b298f22f0a6ec99558e5b5527d9d71/classes.dex" />
+    </item>
+
+</items>

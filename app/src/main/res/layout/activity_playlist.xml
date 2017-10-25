@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Screen to view and create playlists -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/content_playlist"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="@dimen/activity_horizontal_margin"
+    android:orientation="vertical"
+    tools:context="com.fantasticapps.musiqproto.PlaylistActivity">
+
+    <!-- Title of screen: "Playlists" -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"
+        android:background="@color/colorPrimary"
+        android:text="@string/title_activity_playlist"
+        android:textColor="@color/colorAccent"
+        android:textSize="24dp"/>
+
+    <!-- Components arranged vertically -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:orientation="horizontal">
+
+        <!-- Text field to enter name of playlist -->
+        <EditText
+            android:id="@+id/playlist_title_input"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:paddingLeft="@dimen/activity_horizontal_margin"
+            android:paddingRight="@dimen/activity_horizontal_margin"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:clickable="true"
+            android:contextClickable="true"
+            android:cursorVisible="true"
+            android:editable="true"
+            android:ems="10"
+            android:enabled="true"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:hint="Enter Title"
+            android:textColorHint="@color/colorPrimaryDark"
+            android:textSize="20dp"
+            android:textColor="@color/colorAccent"
+            android:inputType="textPersonName" />
+
+        <!-- Button to create the playlist with the name entered above -->
+        <Button
+            android:id="@+id/create_Playlist_Button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="@dimen/activity_horizontal_margin"
+            android:paddingRight="@dimen/activity_horizontal_margin"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:background="@color/colorAccent"
+            android:clickable="true"
+            android:contextClickable="true"
+            android:cursorVisible="false"
+            android:enabled="true"
+            android:text="Create Playlist"
+            android:textSize="20dp"
+            android:textColor="@color/colorBlack"/>
+
+
+    </LinearLayout>
+
+    <!-- List of all of the user's playlist -->
+    <FrameLayout
+        android:id="@+id/content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1">
+
+        <ListView
+            android:id="@+id/playlist"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:headerDividersEnabled="false"
+            android:scrollbars="horizontal" />
+
+    </FrameLayout>
+
+
+</LinearLayout>
